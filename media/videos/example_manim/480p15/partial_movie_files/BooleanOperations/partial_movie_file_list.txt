@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/1185818338_3551094525_223132457.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_3280364867_687343043.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_1717571246_1838753480.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_1596286190_1763865697.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_3841985558_1070706538.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_1468012527_4139813698.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_1173927377_24512744.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_4190972028_2559444510.mp4'
+file 'file:C:/Users/aaron/Manim Stuff/media/videos/example_manim/480p15/partial_movie_files/BooleanOperations/624642324_284229531_3685547263.mp4'
